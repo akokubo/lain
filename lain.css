@@ -103,6 +103,14 @@ br	{
         background: rgb(253,245,230);
 }
 
-.denchu	{
-	float: right;
+@media (min-width: 576px) {
+        .denchu-left {
+                float: left;
+        }
+        .denchu-right {
+                float: right;
+        }
+        .denchu-right + hr {
+                clear: both;
+        }
 }
