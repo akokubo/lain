@@ -103,6 +103,15 @@ br	{
         background: rgb(253,245,230);
 }
 
+.mirror {
+        display: inline-block;
+        transform: scaleX(-1);
+}
+
+a .mirror {
+        text-decoration: underline;
+}
+
 @media (min-width: 576px) {
         .denchu-left {
                 float: left;
