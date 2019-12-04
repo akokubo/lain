@@ -1,125 +1,131 @@
 @charset "UTF-8";
 
-body	{
-        background: rgb(220,220,220);
-        color: rgb(47,79,79);
+body {
+    background: rgb(220, 220, 220);
+    color: rgb(47, 79, 79);
 }
 
-a:link	{
-	color: rgb(72,61,139);
+a:link {
+    color: rgb(72, 61, 139);
 }
 
-a:visited	{
-	color:	rgb(85,107,47);
+a:visited {
+    color: rgb(85, 107, 47);
 }
 
-a:active	{
-	color: rgb(85,107,47);
+a:active {
+    color: rgb(85, 107, 47);
 }
 
-p	{
-        text-indent: 12pt;
-        line-height: 18pt;
+p {
+    line-height: 1.5;
 }
 
-dl	{
-        margin-left: 2%;
-        margin-right: 2%;
-        padding: 5;
-        border-style: inset;
-	border-width: thick;
-        border-color: rgb(30,144,255);
-        background: rgb(253,245,230);
+dl {
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 0.5em;
+    border-style: inset;
+    border-width: thick;
+    border-color: rgb(30, 144, 255);
+    background: rgb(253, 245, 230);
 }
 
-ul p	{
-        text-indent: 0pt;
-        margin: 0pt;
-        line-height: 12pt;
-	padding: 4pt;
+ul p {
+    text-indent: 0;
+    margin: 0;
+    line-height: 1.2;
+    padding: 0.5em 0.5em 0.5em 0;
 }
 
-h1	{
-        font-size: 24pt;
+h1 {
+    font-size: xx-large;
 }
 
-h2	{
-        font-size: 20pt;
+h2 {
+    font-size: x-large;
 }
 
-h3	{
-        font-size: 18pt;
+h3 {
+    font-size: large;
 }
 
-h4	{
-        font-size: 16pt;
+h4 {
+    font-size: medium;
 }
 
-br	{
-	clear: both;
+br {
+    clear: both;
 }
 
-.dt	{
-        display: block;
-        font-weight: bolder;
-        border-style: solid;
-        border-width: 2pt 5pt 5pt 3pt;
-        border-color: rgb(0,128,128);
-	background-color: rgb(255,255,255);
+dt {
+    display: block;
+    font-weight: bolder;
+    border-style: solid;
+    border-width: 0.2em 0.5em 0.5em 0.3em;
+    border-color: rgb(0, 128, 128);
+    padding-left: 0.5em;
+    background-color: rgb(255, 255, 255);
 }
 
-.red	{
-        color: rgb(255,0,0);
+dd {
+    margin: 1em;
 }
 
-.blue	{
-        color: rgb(0,0,255);
+.red {
+    color: rgb(255, 0, 0);
+}
+
+.blue {
+    color: rgb(0, 0, 255);
 }
 
 
-.preface	{
-        text-align: center;
+.preface {
+    text-align: center;
 }
 
-.modefied	{
-        text-align: right;
+.modefied {
+    text-align: right;
 }
 
-.sesl	{
-	text-align: center;
+.sesl {
+    text-align: center;
 }
 
-.references	{
-	list-style-type: none;
+.references {
+    list-style-type: none;
 }
 
-.refbox	{
-        margin-left: 2%;
-        margin-right: 2%;
-        padding: 5;
-        border-style: inset;
-	border-width: thick;
-        border-color: rgb(30,144,255);
-        background: rgb(253,245,230);
+.refbox {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    padding: 0.5em;
+    border-style: inset;
+    border-width: thick;
+    border-color: rgb(30, 144, 255);
+    background: rgb(253, 245, 230);
 }
 
 .mirror {
-        display: inline-block;
-        transform: scaleX(-1);
+    display: inline-block;
+    transform: scaleX(-1);
 }
 
 a .mirror {
-        text-decoration: underline;
+    text-decoration: underline;
 }
 
 @media (min-width: 576px) {
-        .denchu-left {
-                float: left;
-        }
-        .denchu-right {
-                float: right;
-        }
-        .denchu-right + hr {
-                clear: both;
-        }
+    .denchu-left {
+        float: left;
+    }
+
+    .denchu-right {
+        float: right;
+    }
+    
+    .denchu-right + hr {
+        clear: both;
+    }
 }
