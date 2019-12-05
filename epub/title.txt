@@ -1,0 +1,10 @@
+---
+title:
+- type: main
+  text: 電線の在る風景
+creator:
+- role: author
+  text: 小久保 温
+lang: ja
+rights: © 1999 小久保 温, CC BY
+---

@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+}
+
+.red {
+    color: rgb(255, 0, 0);
+}
+
+.blue {
+    color: rgb(0, 0, 255);
+}
+
+.mirror {
+    display: inline-block;
+    transform: scaleX(-1);
+}

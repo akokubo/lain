@@ -1,0 +1,2 @@
+lain-jargon-file.epub: README.md title.txt epub.css cover.png Denchu.jpg
+	pandoc -o lain-jargon-file.epub -t epub3 --epub-cover-image=cover.png --css=epub.css --epub-chapter-level=3 --table-of-contents --toc-depth=3 title.txt README.md
