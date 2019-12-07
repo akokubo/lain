@@ -393,7 +393,7 @@ Copland OS のように派手ではないが、旧型の NAVI では、たぶん
 
 ## さ行
 
-#### サイベリア/Cyberia
+### サイベリア/Cyberia
 
 [\[10\]](#new-age-book)
 [\[11\]](#paradigm-book)
@@ -604,7 +604,7 @@ Deus とは、神のことを言う。
 
 玲音を Real World に造り出したり、ナイツを操ったりして、 Wired と Real World の境界を破壊し、本当の神になろうとしていたらしい。
 
-#### テッド・ネルソン/Ted Nelson
+### テッド・ネルソン/Ted Nelson
 
 [\[18\]](#web-server-technology)
 [\[19\]](#literary-machines)
