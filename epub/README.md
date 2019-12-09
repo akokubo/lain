@@ -48,9 +48,9 @@ lain のシナリオ集 [『scenario experiments lain』](#scenario-experiments-
 この極秘計画の目的は、上空を伝わる低周波の音波をキャッチして、ソ連の核実験を観測することだったという。
 
 -   ケネス・アーノルド事件
-<http://web.ukonline.co.uk/voyager/saucers.htm>
+<http://web.archive.org/web/19991013022209/http://web.ukonline.co.uk/voyager/saucers.htm>
 -   ロズウェル事件
-<http://www.abqjournal.com/roswell/>
+<http://web.archive.org/web/19990202232526/http://www.abqjournal.com/roswell/>
 
 ## あ行
 
@@ -336,7 +336,7 @@ NeXTSTEP は PostScript による画面表示が可能で、優れた GUI を持
 lain の世界でも、康雄の使っていた OS の GUI は NeXTSTEP によく似ていた。
 
 -   NeXT 社(現 Apple 社)
-    <http://www.apple.com/enterprise/>
+    <http://web.archive.org/web/20001215082000/http://www.apple.com/enterprise/>
 -   GNUstep プロジェクト
     <http://www.gnustep.org/>
 
@@ -439,7 +439,7 @@ lain には、電波や電線のイメージが度々出てくるが、これは
 しかし、テスラの予想しなかったことに、この世界システムは毒電波を媒介にして、人の精神に作用している。
 
 -   ニコラ・テスラ
-    <http://www.asahi-net.or.jp/~ve3m-snd/>
+    <http://web.archive.org/web/19990218204819/www.asahi-net.or.jp/~ve3m-snd/>
 
 ### しょーちゃん
 
@@ -466,7 +466,7 @@ lain には、電波や電線のイメージが度々出てくるが、これは
 しかし、意識が拡大しても錯覚以上のレベルでイルカの精神と混じりあうことはなかった。
 
 -   J. C. Lilly
-    <http://www.garage.co.jp/lilly/>
+    <http://web.archive.org/web/19991013204134/http://garage.co.jp/lilly/>
 
 ### serial experiments lain
 
@@ -538,7 +538,7 @@ Wired と Real World の境界が崩れると言うことは、この記録に�
 本人がどれくらい真面目にこれらを信じているかはともかくとして、そのアジテーションは小気味よい。
 
 -   ダグラス・ラシュコフ
-    <http://www.levity.com/rushkoff/>
+    <http://web.archive.org/web/19991201210211/http://www.rushkoff.com/>
 
 ### 橘総合研究所
 
@@ -633,7 +633,7 @@ Real World で成功する秘訣は、わかり易く単純なヴィジョンと
 なお、このソフトウェアは、ナビゲーション・システムがあまりに鈍重であるという欠点を抱えていることを断っておこう。
 
 -   テッド・ネルソン
-    <http://www.sfc.keio.ac.jp/~ted/>
+    <http://web.archive.org/web/19991004044024/http://www.sfc.keio.ac.jp/%7Eted/>
 -   Xanadu
     <http://www.xanadu.com.au/>
 -   WWW
@@ -667,7 +667,7 @@ BeOS は完全に 1 から新たに作ったもので、 MacOS と異なり本�
 最近は、プリインストールされたマシンが発売されたりしている。
 
 -   Be 社
-    <http://www.be.com/>
+    <http://web.archive.org/web/19990423172157/http://www.be.com/>
 
 ## な行
 
@@ -695,7 +695,7 @@ PlayStation 版の lain でも、玲音は LISP を使っているシーンが�
 知りすぎたものには、死をということなのかもしれない。
 
 -   jargon file
-    <http://www.ccil.org/jargon/>
+    <http://web.archive.org/web/19990508163621/http://www.ccil.org/jargon/>
 
 ### NAVI
 
@@ -797,7 +797,7 @@ RFC は、インターネットの標準の制定を中心に活動している 
 -   RFC
     <ftp://ftp.nic.ad.jp/rfc/>
 -   ハロウィーン文書
-    <http://www.post1.com/home/hiyori13/freeware/halloween.html>
+    <http://web.archive.org/web/19991118134201/https://www.post1.com/home/hiyori13/freeware/halloween.html>
 
 ### ホジスン教授/Prof. Hodgson
 
